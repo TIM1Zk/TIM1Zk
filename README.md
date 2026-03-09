@@ -22,9 +22,9 @@ I am a passionate software developer focused on building robust, scalable web ap
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIM1Zk&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=TIM1Zk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIM1Zk&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=TIM1Zk&layout=compact&theme=radical)
 
 ---
 
