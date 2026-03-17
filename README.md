@@ -31,3 +31,5 @@ I am a passionate software developer focused on building robust, scalable web ap
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/krittawit-bunsop-57a3133b6/]
 - 📧 **Email:** [kittawitcup@gmail.com]
+
+> 📝 Updated on 2026-03-18 via automation.
