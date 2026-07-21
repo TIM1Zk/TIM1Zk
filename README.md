@@ -13,21 +13,27 @@ I am a passionate software developer focused on building robust, scalable web an
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Frontend & Web** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) |
+| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a0c3d2?style=flat-square&logo=firebase&logoColor=ffca28) |
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Repositories
 
-- **[Safe Seat](https://github.com/TIM1Zk/Safe-Seat-Project)**
-  *A professional Flutter mobile application for secure wallet management and real-time user profile interactions, integrated with Supabase.*
+- **[Safe-Seat-Project](https://github.com/TIM1Zk/Safe-Seat-Project)**
+  *A professional Flutter mobile app for vehicle management and secure travel, featuring digital wallet (SafeSeat Wallet), PromptPay integration, and Supabase real-time services.*
 - **[AimZone](https://github.com/TIM1Zk/AimZone)**
-  *An e-commerce platform for high-performance computer mice, optimized with Go for high concurrency and speed.*
+  *An online e-commerce platform specializing in high-performance computer mice, built with Go (Golang) for high concurrency, fast performance, and secure transactions.*
 - **[Vicha](https://github.com/TIM1Zk/Vicha)**
-  *A comprehensive E-learning platform designed with Java, focusing on structured course management and student engagement.*
+  *A comprehensive E-learning course management platform designed with Java for structured course organization, lesson management, and student engagement.*
+- **[Lector-Line-bot](https://github.com/TIM1Zk/Lector-Line-bot)**
+  *An exam schedule manager web app integrated with LINE LIFF and Firebase Firestore for seamless tracking.*
+- **[Discord-Bot-todo-List](https://github.com/TIM1Zk/Discord-Bot-todo-List)**
+  *Interactive task management Discord bot built with `discord.py` and SQLite, featuring modern Slash Commands and UI buttons.*
+- **[For-You](https://github.com/TIM1Zk/For-You)**
+  *A minimalist, aesthetic motivational web application built with React and Framer Motion.*
 
 ---
 
@@ -49,4 +55,4 @@ I am a passionate software developer focused on building robust, scalable web an
 
 ---
 
-> 📝 Last updated on 2026-05-16.
+> 📝 Last updated on 2026-07-21.
